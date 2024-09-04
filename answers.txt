@@ -2,3 +2,6 @@ Q1: Why might be consider using git?
 
 Answer: I think we are considering using git because it it useful for working on coding projects with other developers.
 
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: I think data science could be applied to the field of sports recruiting, where teams can recruit new players from analysing data and seeing which player suits the playstyle of the team. For example, in soccer, teams can find certain statistics favorable by using data science
