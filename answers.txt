@@ -5,3 +5,12 @@ Answer: I think we are considering using git because it it useful for working on
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: I think data science could be applied to the field of sports recruiting, where teams can recruit new players from analysing data and seeing which player suits the playstyle of the team. For example, in soccer, teams can find certain statistics favorable by using data science
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines changes from source branch to target branch, whereas rebasing moves changes from one branch onto another branch.
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I hope to learn how to analyze different forms of data to see results that can be used in various forms of research.
