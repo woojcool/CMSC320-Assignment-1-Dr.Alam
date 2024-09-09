@@ -11,6 +11,6 @@ Q3: What is the difference between merging and rebasing?
 
 Answer: Merging combines changes from source branch to target branch, whereas rebasing moves changes from one branch onto another branch.
 
-Q3: What skills do you hope to improve during this course?
+Q4: What skills do you hope to improve during this course?
 
 Answer: I hope to learn how to analyze different forms of data to see results that can be used in various forms of research.
